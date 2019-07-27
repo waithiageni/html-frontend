@@ -1,0 +1,90 @@
+body{
+	background-image: url(../img/background_white.jpg);
+	background-attachment: fixed;
+	background-color:#fff;
+	font-family: arial;
+}
+header{
+	background-color:rgb(235,159,51);
+	height: 50px;
+
+}
+
+
+.header-container{
+	width: 1200px;
+	margin:0 auto;
+
+
+}
+.header-container ul{
+	float: right;
+}
+.header-container ul li{
+	list-style: none;
+	float: left; 
+
+}
+.header-container ul li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-left: 20px;
+	padding-bottom: 13px;
+	font-weight: bold;
+	font-family: arial;
+	color: #000;
+	font-size: 15px;
+
+	
+
+
+}
+
+.maincont{
+	width:1080px;
+	min-height:1500px;
+	background-color:#ffffff; 
+	margin: 0 auto;
+	padding: 60px;
+}
+.Images{
+	width: 400px;
+	float: right;
+	margin-left: 50px;
+}
+.image1{
+	padding-top: 200px;
+}
+.image2{
+	padding-top: 200px;
+}
+.My_Article h1{
+	margin: 0 0 14px 0;
+	padding: 0;
+	color: orange;
+}
+.My_Article p{
+	font-size: 18px;
+	line-height: 1.5em;
+
+}
+.My_Article{
+  /*background-color: #fff;*/
+  font-family: arial;
+  width: 1000px;
+  margin: 0 auto;
+  text-align: justify;
+ }
+.video1{
+	float: left;
+	margin-right: 20px;
+} 
+
+ footer{
+	text-align: center;
+	color: black;
+	font-size: 18px;
+	padding-top: 20px;
+	padding-bottom: 100px;
+}
+ 
